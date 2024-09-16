@@ -1,0 +1,26 @@
+body{
+    background-image:url(https://w.wallhaven.cc/full/m3/wallhaven-m3v3j1.png);
+    background-size: cover;
+    background-color: cyan;
+    color:white;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500px;
+    font-style: normal;
+    text-align: center;
+    font-size: 50px;
+}
+
+button{
+    background-color: blueviolet;
+    color: black;
+    font-family: "Kanit", sans-serif;
+    font-size: 20px;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
